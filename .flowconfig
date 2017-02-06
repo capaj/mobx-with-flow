@@ -1,0 +1,8 @@
+[ignore]
+
+[include]
+./test.js
+
+[libs]
+
+[options]
